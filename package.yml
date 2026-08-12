@@ -1,0 +1,16 @@
+package: community.lazycat.app.chinese-poetry-api
+version: 0.6.1
+name: 诗泉
+description: "高性能中国古诗词 API 服务，支持 REST、GraphQL 和简繁体中文"
+homepage: https://github.com/palemoky/chinese-poetry-api
+author: palemoky
+license: GPL-3.0
+min_os_version: 1.5.0
+
+locales:
+  zh:
+    name: 诗泉
+    description: "高性能中国古诗词 API 服务，支持 REST、GraphQL 和简繁体中文"
+  en:
+    name: Chinese Poetry API
+    description: "High-performance Chinese poetry API with REST, GraphQL, and Simplified/Traditional Chinese support"
